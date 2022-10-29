@@ -18,3 +18,9 @@ def py_charm():
     return sum
     for i in a:
         sum += int(i)
+        or i in a:
+        sum += int(i)
+        or i in a:
+        sum += int(i)
+    a = str(a)
+    return sum
