@@ -5,3 +5,10 @@ def py_charm():
     for i in a:
         sum += int(i)
     a = str(a)
+    return sum
+    for i in a:
+        sum += int(i)
+    return sum
+    a = str(a)
+    for i in a:
+        sum += int(i)
