@@ -5,3 +5,7 @@ def mane_function():
     for i in a:
         sum += int(i)
     return sum
+    a = str(a)
+            for i in a:
+        sum += int(i)
+    return sum
